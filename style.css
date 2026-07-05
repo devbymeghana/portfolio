@@ -356,17 +356,11 @@ body {
 }
 
 .about-grid p:last-child {
-
   margin-bottom:0;
-
   font-size:1.25rem;
-
   line-height:1.8;
-
   color:#eef5ff;
-
   font-weight:500;
-
 }
 
 .skills-grid {
