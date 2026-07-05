@@ -947,17 +947,11 @@ to {
 }
 
 .code-line {
-
   color:#d8e2f3;
-
   font-size:1rem;
-
   line-height:1.9;
-
   opacity:0;
-
   transform:translateX(-10px);
-
   animation:codeReveal .6s ease forwards;
 
 }
